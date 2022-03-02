@@ -30,9 +30,6 @@
 <body>
 
 <!-- Her skal sidens indhold ligge -->
-<div class="bg-primary boks">test</div>
-<div class="bg-logoColor boks2">test</div>
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
