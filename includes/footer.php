@@ -28,12 +28,23 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-<?php include "includes/navigation.php"; ?>
-<div class="main">
-    <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, beatae dolorem eos harum inventore minima nobis officia perferendis, placeat possimus provident, quidem similique sit temporibus voluptate. Accusantium nihil pariatur sequi.</div>
-<p>hej sasasa</p>
+<div class="footer">
+    <div>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+    </div>
+    <div>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+    </div>
+    <div>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+    </div>
 </div>
 
-<?php include "includes/footer.php"; ?>
 </body>
 </html>
