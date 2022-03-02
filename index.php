@@ -37,7 +37,7 @@
 
 <div class="main">
     <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, beatae dolorem eos harum inventore minima nobis officia perferendis, placeat possimus provident, quidem similique sit temporibus voluptate. Accusantium nihil pariatur sequi.</div>
-<p>hej sasa</p>
+<p>hej sasasa</p>
 </div>
 
 <div class="footer">
