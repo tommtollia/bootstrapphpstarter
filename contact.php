@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>kontakt</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -28,12 +28,12 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-
-<div class="navigation">
-    <a href="index.php">Forside</a>
-    <a href="#">Om os</a>
-    <a href="contact.php">Kontakt</a>
+<?php include "includes/navigation.php"; ?>
+<div class="main">
+    <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, beatae dolorem eos harum inventore minima nobis officia perferendis, placeat possimus provident, quidem similique sit temporibus voluptate. Accusantium nihil pariatur sequi.</div>
+    <p>kontakt</p>
 </div>
 
+<?php include "includes/footer.php"; ?>
 </body>
 </html>
