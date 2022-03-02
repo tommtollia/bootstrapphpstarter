@@ -29,7 +29,32 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<!-- Her skal sidens indhold ligge -->
+<div class="navigation">
+    <a href="#">Forside</a>
+    <a href="#">Om os</a>
+    <a href="#">Kontakt</a>
+</div>
 
+<div class="main">
+    <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, beatae dolorem eos harum inventore minima nobis officia perferendis, placeat possimus provident, quidem similique sit temporibus voluptate. Accusantium nihil pariatur sequi.</div>
+</div>
+
+<div class="footer">
+    <div>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+    </div>
+    <div>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+    </div>
+    <div>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+    </div>
+</div>
 </body>
 </html>
